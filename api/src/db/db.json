@@ -21,6 +21,12 @@
       "createdAt": 1596373401072,
       "name": "Chubby",
       "type": "CAT"
+    },
+    {
+      "id": "Qon6ymH2Rdf76ImkwaGJ1",
+      "createdAt": 1596374348553,
+      "name": "REX",
+      "type": "DOG"
     }
   ]
 }
